@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <Header />
-    <Carousel />
+    <!-- <Carousel /> -->
     <Banner />
     <Gallery />
     <Partner />
